@@ -1,0 +1,33 @@
+{
+    "name": "sikessem/parsing-path",
+    "description": "Path parsing for PHP",
+    "type": "project",
+    "require": {
+        "php": ">=7.4"
+    },
+    "keywords": [
+        "path-parsing",
+        "sikessem",
+        "ske"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "SIGUI Kessé Emmanuel",
+            "email": "sikessem@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Ske\\Parsing\\Path\\": ""
+        }
+    },
+    "config": {
+        "vendor-dir": "",
+        "preferred-install": "dist",
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
