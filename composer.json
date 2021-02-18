@@ -11,6 +11,9 @@
         "sikessem",
         "ske"
     ],
+    "support": {
+        "source": "https://github.com/SIKessEm/SIKessEm-PathParsing.php"
+    },
     "license": "MIT",
     "authors": [
         {
